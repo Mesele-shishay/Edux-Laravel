@@ -1,0 +1,15 @@
+/*.btn.btn-primary ,.btn-outline-primary:hover{
+        background: linear-gradient(135deg, #f75959 0%, #f35587 100%);
+        border: 1px solid #f35588;
+}
+
+.btn-outline-primary {
+    color: #f35588;
+    border-color: #f35588;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+     border-color: #f75959 ;
+    background-color: #f75959 ;
+}*/
